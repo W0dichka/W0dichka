@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus Minsk.
 
 - :telescope: I’m working as a Software Engineer.
 
@@ -34,7 +34,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Codewars(earlier use project Euler) and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wodi4ko)
 
@@ -61,3 +61,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wodichka&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W0dichka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=Wodichka)
+
+---
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
